@@ -5,3 +5,4 @@ Note: The python file 'simulation' will not work on its own in its current form.
 
 The resultant simulation on a map of a certain geographical area might show the spread of bushfire, such as the one seen in the following image:
 
+![Simulation](simulate_bushfire_stochastic_160.png)
