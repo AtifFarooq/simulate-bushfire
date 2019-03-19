@@ -1,6 +1,6 @@
-"""COMP1730/6730 assignment S2 2018.
+"""Originally done for COMP6730
 
-Coauthors: u6104602, u6345375
+Coauthors: Atif Farooq, Rajkamal Dhull
 Date: 15/10/2018
 """
 
